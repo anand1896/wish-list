@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>true</available_offline>
+        <data_item/>
+        <description>Personal wish list application</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">0e0838269724a110f3c1fed3f153af05</icon>
+        <item_view/>
+        <name>Wish Item Form Screen</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-25 07:06:23</sys_created_on>
+        <sys_id>8a087c269724a110f3c1fed3f153af27</sys_id>
+        <sys_name>Wish Item Form Screen</sys_name>
+        <sys_package display_value="Wish List" source="x_946387_wish_list">0d1778e29724a110f3c1fed3f153af60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">0d1778e29724a110f3c1fed3f153af60</sys_scope>
+        <sys_update_name>sys_sg_form_screen_8a087c269724a110f3c1fed3f153af27</sys_update_name>
+        <table>x_946387_wish_list_wish_item</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Wish Item Detail Screen View Config">02087c269724a110f3c1fed3f153af20</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=8a087c269724a110f3c1fed3f153af27"/>
+</record_update>

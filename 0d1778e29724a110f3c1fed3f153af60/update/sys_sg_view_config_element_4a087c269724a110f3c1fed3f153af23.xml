@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>item-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-25 07:06:23</sys_created_on>
+        <sys_id>4a087c269724a110f3c1fed3f153af23</sys_id>
+        <sys_name>item-FieldValue</sys_name>
+        <sys_package display_value="Wish List" source="x_946387_wish_list">0d1778e29724a110f3c1fed3f153af60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">0d1778e29724a110f3c1fed3f153af60</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_4a087c269724a110f3c1fed3f153af23</sys_update_name>
+        <view_config display_value="Wish Item Detail Screen View Config">02087c269724a110f3c1fed3f153af20</view_config>
+        <view_template_slot display_value="text_02">6c738dbc41e35010f877183fc9b8be9a</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

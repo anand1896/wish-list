@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation>
+        <navigation_tab display_value="Wish List">0a0838269724a110f3c1fed3f153af07</navigation_tab>
+        <order>260</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-25 07:06:23</sys_created_on>
+        <sys_id>5a087c269724a110f3c1fed3f153af3b</sys_id>
+        <sys_name/>
+        <sys_package display_value="Wish List" source="x_946387_wish_list">0d1778e29724a110f3c1fed3f153af60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">0d1778e29724a110f3c1fed3f153af60</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_5a087c269724a110f3c1fed3f153af3b</sys_update_name>
+    </sys_sg_navigation_tab_map>
+</record_update>

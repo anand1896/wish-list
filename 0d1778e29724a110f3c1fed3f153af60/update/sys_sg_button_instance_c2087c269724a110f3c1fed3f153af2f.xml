@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Wish Item)">02087c269724a110f3c1fed3f153af2d</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Wish Item)</name>
+        <order/>
+        <parent>0a087c269724a110f3c1fed3f153af2a</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-25 07:06:23</sys_created_on>
+        <sys_id>c2087c269724a110f3c1fed3f153af2f</sys_id>
+        <sys_name>Delete (Wish Item)</sys_name>
+        <sys_package display_value="Wish List" source="x_946387_wish_list">0d1778e29724a110f3c1fed3f153af60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">0d1778e29724a110f3c1fed3f153af60</sys_scope>
+        <sys_update_name>sys_sg_button_instance_c2087c269724a110f3c1fed3f153af2f</sys_update_name>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c2087c269724a110f3c1fed3f153af2f"/>
+</record_update>
